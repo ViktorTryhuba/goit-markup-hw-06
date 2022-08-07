@@ -454,6 +454,10 @@
     outline: rgba(0, 0, 255, 0.5) solid 2px;
 }
 
+.modal-form-check-link {
+    
+}
+
 .modal-form-sumbit {
     font-weight: 700;
     font-size: 16px;
