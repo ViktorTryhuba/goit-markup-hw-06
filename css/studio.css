@@ -455,7 +455,7 @@
 }
 
 .modal-form-check-link {
-    
+    color: var(--hover-color);
 }
 
 .modal-form-sumbit {
